@@ -1,2 +1,4 @@
-# banana-android
-Reserved for bAnAnA 输入法 for Android
+# bAnAnA for Android
+
+Reserved. The Android frontend is not implemented.
+
